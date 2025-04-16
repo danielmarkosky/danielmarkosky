@@ -1,5 +1,9 @@
 ## Hello there
 
+graph_project - It's my C++, you guessed it, graph project, aiming at answering which type of political system is the strongest (more about it in project README.md).
+
+And btw, Arcane is great, you should probably watch it if you haven't.
+
 <!--
 **danielmarkosky/danielmarkosky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
