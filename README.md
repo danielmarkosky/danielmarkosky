@@ -1,9 +1,9 @@
 ## Hello there
 
-graph_project - It's my C++, you guessed it, graph project, aiming at answering which type of political system is the most stable (more about it in project README.md).
-graph_data_reading - VERY basic graph ploting in python for graph_project data.
-slotMachineSim - Simulator of slot machine written using Qt.
-slotDB - Database written in C++ (based on json files, whatever) for slotMachineSim.
+graph_project - It's my C++, you guessed it, graph project, aiming at answering which type of political system is the most stable (more about it in project README.md).  
+graph_data_reading - VERY basic graph ploting in python for graph_project data.  
+slotMachineSim - Simulator of slot machine written using Qt.  
+slotDB - Database written in C++ (based on json files, whatever) for slotMachineSim.  
 
 And btw, Arcane is great, you should probably watch it if you haven't.
 
