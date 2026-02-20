@@ -1,8 +1,8 @@
 ## Hello there
 
 graph_project - It's my C++, you guessed it, graph project, aiming at answering which type of political system is the most stable (more about it in project README.md).  
-graph_data_reading - VERY basic graph ploting in python for graph_project data.
-game - game
+graph_data_reading - VERY basic graph ploting in python for graph_project data.  
+game - game (written in c++ using SFML)
 
 <!--
 **danielmarkosky/danielmarkosky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
